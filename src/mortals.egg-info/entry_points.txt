@@ -1,3 +1,0 @@
-[console_scripts]
-wisdom = humans.tupac:spout_wisdom
-
