@@ -1,0 +1,13 @@
+setup.py
+glip_glops/__init__.py
+glip_glops/ice_t.py
+glip_glops/glip_glop_spawn/__init__.py
+humans/__init__.py
+humans/biggie_smalls.py
+humans/tupac.py
+mortals.egg-info/PKG-INFO
+mortals.egg-info/SOURCES.txt
+mortals.egg-info/dependency_links.txt
+mortals.egg-info/entry_points.txt
+mortals.egg-info/requires.txt
+mortals.egg-info/top_level.txt
